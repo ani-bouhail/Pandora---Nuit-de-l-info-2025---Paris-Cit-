@@ -1,0 +1,32 @@
+[01:39:01.789] Server  ERROR   Error: Cannot find module 'next/dist/compiled/cookie'
+Require stack:
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/api-utils/get-cookie-parser.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/shared/lib/router/utils/prepare-destination.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/shared/lib/router/utils/middleware-route-matcher.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/router-utils/filesystem.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/router-server.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/start-server.js
+[01:39:01.797] Server  ERROR   Error: Cannot find module 'next/dist/compiled/cookie'
+Require stack:
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/api-utils/get-cookie-parser.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/shared/lib/router/utils/prepare-destination.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/shared/lib/router/utils/middleware-route-matcher.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/router-utils/filesystem.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/router-server.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/start-server.js
+[01:39:01.838] Server  ERROR   Error: Cannot find module 'next/dist/compiled/cookie'
+Require stack:
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/api-utils/get-cookie-parser.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/shared/lib/router/utils/prepare-destination.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/shared/lib/router/utils/middleware-route-matcher.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/router-utils/filesystem.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/router-server.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/start-server.js
+[01:39:01.847] Server  ERROR   Error: Cannot find module 'next/dist/compiled/cookie'
+Require stack:
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/api-utils/get-cookie-parser.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/shared/lib/router/utils/prepare-destination.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/shared/lib/router/utils/middleware-route-matcher.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/router-utils/filesystem.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/router-server.js
+- /Users/bouhailanis/Personnel/UPC-L3/S5/La Nuit de l'Info/pandora-box/node_modules/next/dist/server/lib/start-server.js

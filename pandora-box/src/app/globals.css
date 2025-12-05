@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-cinzel);
+
+  --color-myth-dark: #020617;
+  /* Deepest Blue/Black */
+  --color-myth-purple: #0f172a;
+  /* Slate 900 */
+  --color-myth-gold: #0ea5e9;
+  /* Sky 500 (Cyan) - Replacing Gold */
+  --color-myth-light: #f8fafc;
+  /* Slate 50 */
+  --color-myth-accent: #1e293b;
+  /* Slate 800 */
+  --color-myth-red: #ef4444;
+  --color-myth-green: #22c55e;
+
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-pulse-glow: pulse-glow 2s ease-in-out infinite;
+
+  @keyframes float {
+
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+
+    50% {
+      transform: translateY(-20px);
+    }
+  }
+}
+
+/* Custom Utilities */
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+
+  .text-shadow-lg {
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+  }
+
+  .box-glow {
+    box-shadow: 0 0 15px rgba(14, 165, 233, 0.3);
+    /* Cyan glow */
+  }
+}
+
+body {
+  background-color: var(--color-myth-dark);
+  background-image: url('/theme-bg.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: var(--color-myth-light);
+  min-height: 100vh;
+}
